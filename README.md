@@ -16,6 +16,11 @@ env file is alredy pushed
 
 3. will have to import database wich is also pushed 
 
+notes:
+
+theme i have used in this project is : https://themewagon.com/themes/kaiadmin/
+Kai admin by theme kita
+
 
 🛠 Requirements
 
