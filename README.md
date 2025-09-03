@@ -15,3 +15,14 @@ composer install
 env file is alredy pushed 
 
 3. will have to import database wich is also pushed 
+
+
+🛠 Requirements
+
+PHP >= 8.2
+
+Composer
+
+MySQL / MariaDB
+
+Laravel >= 12
